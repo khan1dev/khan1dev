@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Khan!</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=000000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Khan!)](https://git.io/typing-svg)</h1>
 
 <p align="center">
   Desenvolvedor fullstack com foco em <strong>Node.js</strong>, <strong>Python</strong>, <strong>Next.js</strong> e <strong>React Native</strong>.
@@ -22,6 +22,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
