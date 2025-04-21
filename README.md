@@ -2,9 +2,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1&size=26&pause=1000&color=000000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Khan!" alt="Typing SVG" /></a>
 </div>
 
----
-
-
 <p align="center">
   Desenvolvedor fullstack com foco em <strong>Node.js</strong>, <strong>Python</strong>, <strong>Next.js</strong> e <strong>React Native</strong>.
   <br />
