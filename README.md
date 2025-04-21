@@ -1,4 +1,6 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=000000&center=true&random=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Khan!)](https://git.io/typing-svg)
+</div>
 
 <p align="center">
   Desenvolvedor fullstack com foco em <strong>Node.js</strong>, <strong>Python</strong>, <strong>Next.js</strong> e <strong>React Native</strong>.
