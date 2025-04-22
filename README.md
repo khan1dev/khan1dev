@@ -54,7 +54,8 @@
 
 ## 📫 Onde me encontrar
 
-- ✉️ **Email**: khan1dev@proton.me
+- 📧 Email: [khan1dev@proton.me](mailto:khan1dev@proton.me)
+- 💬 Discord: `khan1dev`
 
 
 ---
