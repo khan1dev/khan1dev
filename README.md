@@ -5,10 +5,13 @@
 </div>
 
 <p align="center">
-  Desenvolvedor fullstack com foco em <strong>Node.js</strong>, <strong>Python</strong>, <strong>Next.js</strong> e <strong>React Native</strong>.
+  Desenvolvedor fullstack em <strong>JavaScript</strong>, com foco em <strong>Node.js</strong>, <strong>Next.js</strong> e <strong>React Native</strong>, além de experiência com <strong>Python</strong>.
   <br />
-  Entusiasta de arquitetura de software, redes, bancos de dados e programação em geral.
+  Entusiasta de <strong>criptografia</strong>, <strong>arquitetura de software</strong>, <strong>redes</strong>, <strong>bancos de dados</strong> e programação em geral.
+  <br />
+  Também sou <strong>otaku</strong> de carteirinha e adoro unir tecnologia com cultura pop japonesa.
 </p>
+
 
 ---
 
