@@ -1,6 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Khan!" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Ol%C3%A1%2C+eu+sou+o+Khan!" alt="Typing SVG" /></a>
 
 <p align="center">
   <br><br>
