@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou um desenvolvedor Fullstack, especializado em **JavaScript** e **TypeScript**, focado no desenvolvimento de soluções modernas usando **Node.js**,**NestJS** **Next.js** e **React Native**. Tenho experiência prática em bancos de dados como **MySQL** e **MariaDB**, além de grande interesse por **criptografia**, **arquitetura de software**, **redes de computadores** e **programação** no geral.
+<p align="center">
+👋 Olá, eu sou um desenvolvedor Fullstack, especializado em <strong>JavaScript</strong> e <strong>TypeScript</strong>, focado no desenvolvimento de soluções modernas usando <strong>Node.js</strong>, <strong>NestJS</strong>, <strong>Next.js</strong> e <strong>React Native</strong>. Tenho experiência prática em bancos de dados como <strong>MySQL</strong> e <strong>MariaDB</strong>, além de grande interesse por <strong>criptografia</strong>, <strong>arquitetura de software</strong>, <strong>redes de computadores</strong> e <strong>programação</strong> no geral.
+</p>
 
 ---
 
