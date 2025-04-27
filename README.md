@@ -1,65 +1,44 @@
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&random=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Khan!" alt="Typing SVG" /></a>
-
-</div>
-
-<p align="center">
-  Desenvolvedor fullstack em <strong>JavaScript</strong>, com foco em <strong>Node.js</strong>, <strong>Next.js</strong> e <strong>React Native</strong>, além de experiência com <strong>Python</strong>.
-  <br />
-  Entusiasta de <strong>criptografia</strong>, <strong>arquitetura de software</strong>, <strong>redes</strong>, <strong>bancos de dados</strong> e programação em geral.
-  <br />
-  Também sou <strong>otaku</strong> de carteirinha e adoro unir tecnologia com cultura pop japonesa.
-</p>
-
+# 👋 Olá, eu sou um desenvolvedor Fullstack, especializado em **JavaScript** e **TypeScript**, focado no desenvolvimento de soluções modernas usando **Node.js**,**NestJS** **Next.js** e **React Native**. Tenho experiência prática em bancos de dados como **MySQL** e **MariaDB**, além de grande interesse por **criptografia**, **arquitetura de software**, **redes de computadores** e **programação** no geral.
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-- 🧠 Apaixonado por aprender coisas novas (e ensinar também!)
-- 🛠️ Trabalhando com aplicações web e mobile
-- ⚙️ Curioso por trás dos bastidores: servidores, rede, banco de dados, segurança...
+- 🎓 Estudante de **Engenharia de Software** na **Universidade de Caxias do Sul (UCS)**
+- 🚀 Apaixonado por aprender coisas novas (e ensinar também!)
+- 🔍 Curioso por trás dos bastidores: **servidores**, **redes**, **bancos de dados** e **segurança da informação**
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## 🚀 Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### 🖥️ Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### 🛠️ Backend & Banco de Dados
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+### ⚙️ Infraestrutura e Ferramentas
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
-
----
-
-## 📊 GitHub Stats
-
-![Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khan1dev&show_icons=true&theme=radical&hide_rank=true)
 
 ---
 
 ## 📫 Onde me encontrar
 
-- 📧 Email: [khan1dev@proton.me](mailto:khan1dev@proton.me)
-- 💬 Discord: `khan1dev`
-
-
----
-
-
-
+- 📧 **Email:** [khan1dev@proton.me](mailto:khan1dev@proton.me)
+- 💬 **Discord:** `khan1dev`
+- 💻 **GitHub:** [Seu GitHub](https://github.com/khan1dev)
 
