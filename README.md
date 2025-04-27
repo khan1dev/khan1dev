@@ -48,5 +48,5 @@
 
 - 📧 **Email:** [khan1dev@proton.me](mailto:khan1dev@proton.me)
 - 💬 **Discord:** `khan1dev`
-- 💻 **GitHub:** [Seu GitHub](https://github.com/khan1dev)
+- 💻 **GitHub:** [khan1dev](https://github.com/khan1dev)
 
