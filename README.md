@@ -1,6 +1,4 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Ol%C3%A1%2C+eu+sou+o+Khan!" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=200&lines=Ol%C3%A1%2C+eu+sou+o+Khan!" alt="Typing SVG" /></a>
 <p align="center">
   <br><br>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 👋 Olá, eu sou um desenvolvedor Fullstack, especializado em <strong>JavaScript</strong> e <strong>TypeScript</strong>, focado no desenvolvimento de soluções modernas usando <strong>Node.js</strong>, <strong>NestJS</strong>, <strong>Next.js</strong> e <strong>React Native</strong>. Tenho experiência prática em bancos de dados como <strong>MySQL</strong> e <strong>MariaDB</strong>, além de grande interesse por <strong>criptografia</strong>, <strong>arquitetura de software</strong>, <strong>redes de computadores</strong> e <strong>programação</strong> no geral.
