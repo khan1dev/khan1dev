@@ -27,7 +27,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Headless UI](https://img.shields.io/badge/-Headless%20UI-000000?style=flat&logo=tailwindcss&logoColor=white)
 ![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
 ### 🛠️ Backend & Banco de Dados
