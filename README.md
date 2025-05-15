@@ -1,65 +1,42 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=200&lines=Ol%C3%A1%2C+eu+sou+o+Khan!" alt="Typing SVG" /></a>
- 
-<p align="center">
-  <br><br>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>Olá, eu sou um desenvolvedor Fullstack, especializado em <strong>JavaScript</strong> e <strong>TypeScript</strong>, focado no desenvolvimento de soluções modernas usando <strong>Node.js</strong>, <strong>NestJS</strong>, <strong>Next.js</strong> e <strong>React Native</strong>. Tenho experiência prática em bancos de dados como <strong>MySQL</strong> e <strong>MariaDB</strong>, além de grande interesse por <strong>criptografia</strong>, <strong>arquitetura de software</strong>, <strong>redes de computadores</strong> e <strong>programação</strong> no geral.
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <br><br>
-</p>
+# 👨‍💻 Full-Stack Developer
 
+Olá! Sou um desenvolvedor Full-Stack apaixonado por transformar ideias em aplicações funcionais, seguras e com ótimo desempenho. Tenho experiência sólida tanto no frontend quanto no backend, com foco em qualidade de código, usabilidade e segurança.
 
+## 🚀 Tecnologias & Ferramentas
 
----
+### Frontend
+- **TypeScript**
+- **Next.js**
+- **React Native**
+- **Tailwind CSS**
+- **Material Design**
+- **Foco em UX/UI**
 
-## 🧠 Sobre mim
+### Backend
+- **NestJS**
+- **MySQL & SQLite**
+- **Testes automatizados com Jest**
+- **Docker & Nginx (Deploy)**
+- **Segurança baseada no OWASP Top 10**
 
-- 🎓 Estudante de **Engenharia de Software** na **Universidade de Caxias do Sul (UCS)**
-- 🚀 Apaixonado por aprender coisas novas (e ensinar também!)
-- 🔍 Curioso por trás dos bastidores: **servidores**, **redes**, **bancos de dados** e **segurança da informação**
+### Extras
+- **Web scraping com Python**
+- **Engenharia reversa de APIs (Frida)**
+- **GitHub para versionamento**
+- **Boas práticas: Clean Code & Arquitetura bem definida**
 
----
+## 🧪 Qualidade e Segurança
+> Acredito que um bom sistema começa com código limpo e termina com segurança. Por isso, aplico testes automatizados, práticas de segurança OWASP e versionamento eficiente com Git.
 
-## 🚀 Tecnologias e Ferramentas
+## 💼 Portfólio e Projetos
+Confira meus repositórios para ver meus projetos mais recentes. Estou sempre buscando aprender mais e contribuir com soluções que façam a diferença.
 
-### 🖥️ Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+## 📫 Onde me encontrar
 
-### 🛠️ Backend & Banco de Dados
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### ⚙️ Infraestrutura e Ferramentas
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-
-### 🎨 Design & UX/UI
-![Material Design](https://img.shields.io/badge/-Material%20Design-009688?style=flat&logo=materialdesign&logoColor=white)
-![UX Design](https://img.shields.io/badge/-UX%20Design-FF6F61?style=flat&logo=figma&logoColor=white)
-![UI Design](https://img.shields.io/badge/-UI%20Design-0061F2?style=flat&logo=figma&logoColor=white)
-
-### 📈 SEO & Segurança
-![SEO](https://img.shields.io/badge/-SEO-FF9900?style=flat&logo=google&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-ED1C24?style=flat&logo=owasp&logoColor=white)
+- 📧 **Email:** [khan1dev@proton.me](mailto:khan1dev@proton.me)  
+- 💬 **Discord:** `khan1dev`  
+- 💻 **GitHub:** [khan1dev](https://github.com/khan1dev)
 
 ---
- 
- ## 📫 Onde me encontrar
- 
- - 📧 **Email:** [khan1dev@proton.me](mailto:khan1dev@proton.me)
- - 💬 **Discord:** `khan1dev`
- - 💻 **GitHub:** [khan1dev](https://github.com/khan1dev)
 
-
+✨ Obrigado por visitar meu perfil!
