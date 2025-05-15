@@ -2,12 +2,11 @@
 
 # Full-Stack Developer
 
-Olá! Sou um desenvolvedor Full-Stack apaixonado por transformar ideias em aplicações funcionais, seguras e com ótimo desempenho. Tenho experiência sólida tanto no frontend quanto no backend, com foco em qualidade de código, usabilidade e segurança.
-
+Sou um desenvolvedor Full-Stack com experiência em TypeScript, Next.js, React Native e Tailwind CSS. Tenho sólida experiência com backend em NestJS e bancos de dados como MySQL e SQLite, além de saber implementar testes automatizados com Jest. Trabalho com versionamento de código no GitHub e sou adepto de boas práticas de desenvolvimento, como Clean Code. Também tenho experiência em deploy utilizando Docker e Nginx, focando sempre na segurança com o OWASP Top 10. Além disso, crio interfaces agradáveis e funcionais com foco em UX/UI e Material Design. Tenho experiência em web scraping e engenharia reversa de APIs utilizando Python e Frida.
 </div>
 
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Frontend
 - **TypeScript**
@@ -29,12 +28,6 @@ Olá! Sou um desenvolvedor Full-Stack apaixonado por transformar ideias em aplic
 - **Engenharia reversa de APIs (Frida)**
 - **GitHub para versionamento**
 - **Boas práticas: Clean Code & Arquitetura bem definida**
-
-## 🧪 Qualidade e Segurança
-> Acredito que um bom sistema começa com código limpo e termina com segurança. Por isso, aplico testes automatizados, práticas de segurança OWASP e versionamento eficiente com Git.
-
-## 💼 Portfólio e Projetos
-Confira meus repositórios para ver meus projetos mais recentes. Estou sempre buscando aprender mais e contribuir com soluções que façam a diferença.
 
 ## 📫 Onde me encontrar
 
