@@ -1,6 +1,11 @@
-# 👨‍💻 Full-Stack Developer
+<div align="center">
+
+# Full-Stack Developer
 
 Olá! Sou um desenvolvedor Full-Stack apaixonado por transformar ideias em aplicações funcionais, seguras e com ótimo desempenho. Tenho experiência sólida tanto no frontend quanto no backend, com foco em qualidade de código, usabilidade e segurança.
+
+</div>
+
 
 ## 🚀 Tecnologias & Ferramentas
 
