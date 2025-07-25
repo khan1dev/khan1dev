@@ -23,23 +23,19 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)  
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-6DB33F?style=for-the-badge&logo=postman)
 
-**Security**  
-🔒 OWASP (Mobile · Web · APIs)
 
-**Architecture & Design**  
-🎨 UI/UX Design · Clean Code · Software Architecture
+
 
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)  
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)  
-☁️ AWS · GCP · Azure
+
+
 
 **Databases & Caching**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)  
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis)  
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra)  
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)  
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite)
