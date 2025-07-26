@@ -42,13 +42,6 @@
 
 ---
 
-### 🎯 What I’m Currently Focusing On
-
-- 📱 Building cross-platform mobile and web applications  
-- ⚙️ Exploring microservices, scalability, and observability  
-- 🛡️ Improving infrastructure security and CI/CD pipelines  
-
----
 
 ### 📊 GitHub Stats
 
@@ -58,5 +51,3 @@
 </p>
 
 ---
-
-<p align="center"><em>“Turning ideas into real digital solutions with code, creativity, and curiosity.”</em> 🚀</p>
