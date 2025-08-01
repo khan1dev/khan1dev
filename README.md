@@ -45,9 +45,30 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khan1dev&show_icons=true&theme=tokyonight&hide=stars&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan1dev&layout=compact&theme=tokyonight" height="180" />
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=khan1dev&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=khan1dev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=khan1dev&show_icons=true" alt="GitHub Stats" />
+</picture>
 
 ---
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khan1dev&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khan1dev&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan1dev&layout=compact" alt="Top Languages" />
+</picture>
+
+
